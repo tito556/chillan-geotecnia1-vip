@@ -1,0 +1,49 @@
+# Geotecnia1 — Chillán
+
+> Geotechnical engineering services in Chillán, Chile.
+
+## Services
+- [Aislacion Sismica](https://chillan.geotecnia1.vip/aislacion-sismica/)
+- [Calicatas Exploratorias](https://chillan.geotecnia1.vip/calicatas-exploratorias/)
+- [Cbr Vial](https://chillan.geotecnia1.vip/cbr-vial/)
+- [Cimentaciones](https://chillan.geotecnia1.vip/cimentaciones/)
+- [Cimentaciones Superficiales](https://chillan.geotecnia1.vip/cimentaciones-superficiales/)
+- [Columnas Grava](https://chillan.geotecnia1.vip/columnas-grava/)
+- [Densidad Cono Arena](https://chillan.geotecnia1.vip/densidad-cono-arena/)
+- [Ensayo Cpt](https://chillan.geotecnia1.vip/ensayo-cpt/)
+- [Ensayo Triaxial](https://chillan.geotecnia1.vip/ensayo-triaxial/)
+- [Estabilidad Taludes](https://chillan.geotecnia1.vip/estabilidad-taludes/)
+- [Excavaciones Profundas](https://chillan.geotecnia1.vip/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://chillan.geotecnia1.vip/excavaciones-subterraneo/)
+- [Exploracion](https://chillan.geotecnia1.vip/exploracion/)
+- [Geofisica](https://chillan.geotecnia1.vip/geofisica/)
+- [Geotecnia Vial](https://chillan.geotecnia1.vip/geotecnia-vial/)
+- [Granulometria](https://chillan.geotecnia1.vip/granulometria/)
+- [Grouting](https://chillan.geotecnia1.vip/grouting/)
+- [Laboratorio In Situ](https://chillan.geotecnia1.vip/laboratorio-in-situ/)
+- [Laboratorio Lab](https://chillan.geotecnia1.vip/laboratorio-lab/)
+- [Licuefaccion](https://chillan.geotecnia1.vip/licuefaccion/)
+- [Limites Atterberg](https://chillan.geotecnia1.vip/limites-atterberg/)
+- [Losa De Cimentacion](https://chillan.geotecnia1.vip/losa-de-cimentacion/)
+- [Masw Vs30](https://chillan.geotecnia1.vip/masw-vs30/)
+- [Mejoramiento](https://chillan.geotecnia1.vip/mejoramiento/)
+- [Microzonificacion Sismica](https://chillan.geotecnia1.vip/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://chillan.geotecnia1.vip/monitoreo-excavaciones/)
+- [Muros Contencion](https://chillan.geotecnia1.vip/muros-contencion/)
+- [Pavimento Flexible](https://chillan.geotecnia1.vip/pavimento-flexible/)
+- [Pavimento Rigido](https://chillan.geotecnia1.vip/pavimento-rigido/)
+- [Permeabilidad Campo](https://chillan.geotecnia1.vip/permeabilidad-campo/)
+- [Pilotes](https://chillan.geotecnia1.vip/pilotes/)
+- [Placa De Carga](https://chillan.geotecnia1.vip/placa-de-carga/)
+- [Resistividad Electrica Sev](https://chillan.geotecnia1.vip/resistividad-electrica-sev/)
+- [Sismica](https://chillan.geotecnia1.vip/sismica/)
+- [Taludes](https://chillan.geotecnia1.vip/taludes/)
+- [Tomografia Sismica](https://chillan.geotecnia1.vip/tomografia-sismica/)
+- [Vibrocompactacion](https://chillan.geotecnia1.vip/vibrocompactacion/)
+
+## Contact
+- Website: https://chillan.geotecnia1.vip/
+
+## About
+This site provides geotechnical engineering services in Chillán, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
